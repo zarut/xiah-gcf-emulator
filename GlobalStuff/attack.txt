@@ -1,0 +1,73 @@
+#SEND ATTACK 1
+[  DATA  ] (0x0000)  03 35 10 00 01 0E 7B F7 17 40 03 E9 03 39 03 C1   .5....{..@...9..
+[  DATA  ] (0x0010)  2F 8A 03 00                                       /...            
+
+PacketID = 03 35
+PacketLength = 10 00
+AttackerType = 01 
+AttackerID = 0E 7B F7 17
+AttackerX = 40 03
+AttackerY = E9 03
+AttackerZ = 39
+TargetType = 03
+TargetID = C1 2F 8A 03
+something = 00
+
+#RECV ATTACK 1
+[  DATA  ] (0x0000)  04 35 11 00 01 0E 7B F7 17 40 03 E9 03 39 03 C1   .5....{..@...9..
+[  DATA  ] (0x0010)  2F 8A 03 00 0D                                    /....           
+
+PacketID = 04 35
+PacketLength = 11 00
+AttackerType = 01
+AttackerID = 0E 7B F7 17
+AttackerX = 40 03
+AttackerY = E9 03
+AttackerZ = 39
+TargetType = 03
+TargetID = C1 2F 8A 03
+Something = 00 0D
+
+
+#SEND ATTACK 2
+[  DATA  ] (0x0000)  05 35 10 00 01 0E 7B F7 17 40 03 E9 03 39 03 C1   .5....{..@...9..
+[  DATA  ] (0x0010)  2F 8A 03 00                                       /...            
+
+PacketID = 05 35
+PacketLength = 10 00
+AttackerType = 01
+AttackerID = 0E 7B F7 17
+AttackerX = 40 03
+AttackerY = E9 03
+AttackerZ = 39
+TargetType = 03
+TargetID = C1 2F 8A 03
+Something = 00
+
+#RECV ATTACK 2
+[  DATA  ] (0x0000)  06 35 22 00 02 01 0E 7B F7 17 40 03 E9 03 39 03   .5"....{..@...9.
+[  DATA  ] (0x0010)  C1 2F 8A 03 96 00 00 00 00 00 00 00 6A 01 00 00   ./..........j...
+[  DATA  ] (0x0020)  2F 00 00 00 00 00                                 /.....          
+
+PacketID = 06 35
+PacketLength = 22 00
+Miss = 02 
+AttackerType = 01
+AttackerID = 0E 7B F7 17
+AttackerX = 40 03
+AttackerY = E9 03
+AttackerZ = 39
+TargetType = 03
+TargetID = C1 2F 8A 03
+TargetMaxHealth = 96 00 00 00
+TargetCurHealth = 00 00 00 00
+DamageDealt = 6A 01 00 00
+ExperienceGained? = 2F 00 00 00 
+Something = 00 00
+
+
+#RECV MONSTER DIE
+[  DATA  ] (0x0000)  10 40 09 00 03 C1 2F 8A 03 02 36 01 FF            .@..../...6..   
+
+#RECV MONSTER DIE2
+[  DATA  ] (0x0000)  34 35 09 00 03 C1 2F 8A 03 2F 00 00 00            45..../../...   

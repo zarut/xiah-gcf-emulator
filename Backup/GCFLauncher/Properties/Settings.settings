@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GCFLauncher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LoginServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="LoginServerPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8600</Value>
+    </Setting>
+    <Setting Name="GCFLauncher_XiahServices_LauncherService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://xiah.inbaru.com/LauncherService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

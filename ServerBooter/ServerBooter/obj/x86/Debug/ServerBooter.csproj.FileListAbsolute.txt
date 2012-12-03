@@ -1,0 +1,18 @@
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\bin\Debug\ServerBooter.exe
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\bin\Debug\ServerBooter.pdb
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.Form1.resources
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.Properties.Resources.resources
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.exe
+c:\users\omistaja\documents\visual studio 2010\Projects\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.pdb
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.exe
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.pdb
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\bin\Debug\ServerBooter.exe
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\bin\Debug\ServerBooter.pdb
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.Form1.resources
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\obj\x86\Debug\ServerBooter.Properties.Resources.resources
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Programming\C#\XiahGlobalServer\ServerBooter\ServerBooter\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,88 @@
+#SEND ADD ITEM TO WAREHOUSE
+[  DATA  ] (0x0000)  A3 38 0F 00 14 7B F7 17 53 A7 D2 00 01 18 01 01   £8...{..S.......
+[  DATA  ] (0x0010)  00 00 00                                          ...             
+
+PacketID = A3 38
+PacketLength = 0F 00
+CharacterID = 14 7B F7 17
+ItemID = 53 A7 D2 00
+FromBag = 01
+FromSlot = 18
+ToBag = 01
+ToSlot = 01
+
+#RECV REMOVE ITEM FROM BAG
+[  DATA  ] (0x0000)  08 33 03 00 01 18 00                              .3.....         
+
+
+#RECV UPDATE WAREHOUSE ITEMS
+[  DATA  ] (0x0000)  A0 38 1E 00 01 01 53 A7 D2 00 57 58 19 08 43 03   .8....S...WX..C.
+[  DATA  ] (0x0010)  D6 38 00 00 00 00 00 01 00 00 05 00 02 00 00 00   .8..............
+[  DATA  ] (0x0020)  5A 00                                             Z.              
+
+PacketID = A0 38
+PacketLength = 1E 00
+Bag = 01
+Slot = 01
+ItemID = 53 A7 D2 00
+wRefID = 57 58
+bType = 19
+bKind = 08
+VisualID = 43 03
+Price = D6 38 00 00
+Something = 00 00 
+RequiredClass= 00
+Amount = 01 00
+ImbueStat = 00
+SuccessChance = 05 00
+IncreaseAttribute = 02 00
+Something = 00 00
+MaxLVlOfUsage = 5A 00
+
+#RECV Money Left
+[  DATA  ] (0x0000)  13 3A 05 00 08 E0 38 00 00                        .:....8..       
+
+PacketID = 13 3A
+PacketLength = 05 00
+MoneyLeft = 08 E0 38 00
+Something = 00
+
+
+#SEND MOVE WAREHOUSE ITEM
+
+[  DATA  ] (0x0000)  A7 38 0A 00 02 00 10 5B 01 03 00 00 00 00         .8.....[......  
+
+PacketID = A7 38
+PacketLength = 0A 00
+FromSlot = 02
+ItemID = 00 10 5B 01
+ToSlot = 03
+ItemUnderID = 00 00 00 00
+
+[  DATA  ] (0x0000)  A5 38 0F 00 14 7B F7 17 00 10 5B 01 03 01 01 01   .8...{....[.....
+[  DATA  ] (0x0010)  00 00 00                                          ...             
+
+
+#SEND MOVE WAREHOUSE ITEM TO BAG ITEMs
+[  DATA  ] (0x0000)  A5 38 0F 00 14 7B F7 17 28 12 5B 01 13 02 0C 01   .8...{..(.[.....
+[  DATA  ] (0x0010)  00 00 00                                          ...             
+
+PacketID = A5 38
+PacketLength = 0F 00
+CharacterID = 14 7B F7 17
+ItemID = 28 12 5B 01
+FromSlot = 13
+ToBag = 02
+ToSlot = 0C
+Something = 01 00 00 00
+
+#RECV REMOVE WAREHOUSE ITEM
+[  DATA  ] (0x0000)  A2 38 09 00 13 28 12 5B 01 01 00 00 00            .8...(.[.....   
+
+#RECV ADD ITEM TO BAG
+[  DATA  ] (0x0000)  0A 33 52 00 02 0C 28 12 5B 01 21 4E 01 00 E8 03   .3R...(.[.!N....
+[  DATA  ] (0x0010)  0F 00 00 00 00 00 01 01 00 01 00 00 00 00 00 00   ................
+[  DATA  ] (0x0020)  00 01 00 C8 C8 00 C8 00 03 00 00 00 00 00 02 00   ................
+[  DATA  ] (0x0030)  02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0040)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0050)  00 00 00 00 00 00                                 ......          

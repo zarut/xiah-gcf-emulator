@@ -1,0 +1,63 @@
+[  DATA  ] (0x0000)  18 31 A4 00 00 02 00 D2 AF D4 00 21 4E 01 00 E8   .1¤........!N...
+[  DATA  ] (0x0010)  03 00 00 00 00 00 00 01 01 00 01 00 00 00 00 00   ................
+[  DATA  ] (0x0020)  00 00 01 00 C8 C8 00 C8 00 03 00 00 00 00 00 02   ................
+[  DATA  ] (0x0030)  00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0040)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0050)  00 00 00 00 00 00 00 02 D3 AF D4 00 2E 4E 02 00   .............N..
+[  DATA  ] (0x0060)  D0 07 00 00 00 00 00 00 01 01 00 01 00 00 00 00   ................
+[  DATA  ] (0x0070)  00 01 00 00 00 C8 64 00 64 00 00 00 03 00 00 00   ......d.d.......
+[  DATA  ] (0x0080)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0090)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x00A0)  00 00 00 00 00 00 00 00                           ........        
+
+PacketID = 18 31
+Length = A4 00
+Bag = 00 // equips :D
+TotalItems = 02
+--loop--
+Slot = 00
+ItemID = D2 AF D4 00
+wRefID = 21 4E
+bType = 01
+bKind = 00
+Visual = E8 03
+Unknown = 00 00 00 00 00 00
+ReqClass = 01
+Amount = 01 00
+ReqLevel = 01 00 // base
+ReqDext = 01 00 // base2
+ReqStr = 01 00 // base3
+ReqSta = 01 00 // base4
+ReqEne = 01 00 // base5
+MaxImbueTries = C8 / 1
+CurDura = C8 00 / 2
+MaxDura = C8 00 / 3
+Damage = 01 00 / 4
+Defence = 00 00 / 5
+AttackRating = 00 00 / 6
+AttackSpeed = 02 00 / 7
+AttackRange = 03 00 / 8
+IncMaxLife = 00 00 / 9
+IncMaxMana = 00 00 / 10
+LifeRegen = 00 00 / 11
+ManaRegen = 00 00 / 12
+CriticalHit = 00 00 / 13
+Plus = 00 / 14
+Slvl = 00 / 15
+Unknown = 00 / 16
+ImbueTries = 00 / 17
+Unknown = 00 / 18
+DragonSuccessImbueTries = 00 00 / 19
+DiscountRepairFee = 00 00 / 20
+TotalDragonImbueTries = 00 00 / 21
+DragonDmg = 00 00 / 22
+DragonDef = 00 00 / 23
+DragonAR = 00 00 / 24
+DragonLife = 00 00 / 25
+MappedStuff = 00 // 26
+ForceNumber = 00 // 27
+Unknwon = 00 00 / 28
+RebirthHole = 00 / 29
+RebirthHoleItem = 00 / 30
+RebirthStat = 00 00 / 31
+---loop---

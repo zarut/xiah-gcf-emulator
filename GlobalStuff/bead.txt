@@ -1,0 +1,332 @@
+
+---BEAD----
+
+[  DATA  ] (0x0000)  18 31 21 00 01 01 00 D4 AF D4 00 52 4F 16 00 11   .1!........RO...
+[  DATA  ] (0x0010)  27 00 00 00 00 00 00 00 05 00 06 00 00 00 01 00   ................
+[  DATA  ] (0x0020)  00 00 00 00 00                                    .....           
+
+
+PacketID = 18 31
+PacketSize = 21 00
+Bag = 01
+TotaItems = 01
+--loop--
+Slot 00
+ItemID = D4 AF D4 00
+wREfID = 52 4F
+Type = 16
+Kind = 00
+Visual = 11 27
+Unknwon = 00 00 00 00 00 00
+ReqClass = 00
+Amount = 05 00
+MapID = 06 00 00 00 // this is bead so its to mapid :/
+Unknown = 01 00 00 00 00 00 00
+
+
+----STORETAG-----
+
+[  DATA  ] (0x0000)  18 31 22 00 01 01 00 B2 8F D1 00 30 4F 20 00 D8   .1"........0O ..
+[  DATA  ] (0x0010)  27 D4 30 00 00 00 00 00 01 00 00 00 32 00 32 00   ..0.........2.2.
+[  DATA  ] (0x0020)  00 00 00 00 00 00                                 ......          
+
+
+PacketID = 18 31
+PacketSize = 22 00
+Bag = 01
+TotalItems = 01
+--loop--
+Slot = 00
+ItemID = B2 8F D1 00
+wRefID = 30 4F
+bType = 20
+bKind = 00
+VisualID = D8 27
+Price = D4 30 00 00
+Unknown = 00 00
+ReqCalass = 00
+Amount = 01 00
+ReqLevel = 00 00
+CurDUra = 32 00 // 50
+MaxDura = 32 00 // 50
+Unknown = 00 00 00 00 00 00
+
+
+---HARDBOOK----
+
+[  DATA  ] (0x0000)  18 31 21 00 01 01 00 CB D8 D8 00 15 27 15 01 A4   .1!............¤
+[  DATA  ] (0x0010)  1F 64 00 00 00 00 00 01 01 00 00 00 1E 00 00 00   .d..............
+[  DATA  ] (0x0020)  01 00 00 00 00                                    .....  
+
+        
+PacketID = 18 31
+PacketSize = 21 00
+Bag = 01
+TotaItems = 01
+---Loop--
+Slot = 00
+ItemID = CB D8 D8 00
+wRefID = 15 27
+bType = 15
+bKind = 01
+VisualID = A4 1F
+Price = 64 00 00 00
+Unknown = 00 00
+ReqClass = 01
+Amount = 01 00
+ReqLevel = 00 00
+SkillID = 1E 00 00 00
+SkillLevel = 01 00 00 00
+Unknown = 00
+
+---SOFTBOOK--
+
+[  DATA  ] (0x0000)  18 31 21 00 01 01 00 B4 D9 D8 00 2C 27 15 00 40   .1!........,...@
+[  DATA  ] (0x0010)  1F 58 1B 00 00 00 00 00 01 00 0F 00 01 00 00 00   .X..............
+[  DATA  ] (0x0020)  00 00 00 00 00                                    .....           
+
+PacketID = 18 31
+PacketSize = 21 00
+Bag = 01
+TotaItems = 01
+---Loop--
+Slot = 00
+ItemID = B4 D9 D8 00
+wRefID = 2C 27
+bType = 15
+bKind = 00
+Visual = 40 1F
+Price = 1B 00 00 00
+Unknown = 00 00
+RequiredClass = 00
+Amount = 01 00
+ReqLevel = 0F 00
+SkillID = 01 00 00 00
+Unknown = 00 00 00 00 00
+
+--HealingPotion---
+
+[  DATA  ] (0x0000)  18 31 25 00 01 01 00 D8 DA D8 00 48 4E 17 00 20   .1%........HN.. 
+[  DATA  ] (0x0010)  4E 14 00 00 00 00 00 00 01 00 00 00 00 00 14 00   N...............
+[  DATA  ] (0x0020)  00 00 00 20 4E 00 00 00 00                        ... N....       
+
+
+PacketID = 18 31
+PacketSize = 25 00
+Bag = 01
+TotaItems = 01
+--loop--
+slot = 00
+ItemID = D8 DA D8 00
+wRefID = 48 4E
+bType = 17
+bKind = 00
+VisualID = 20 4E
+Price = 14 00 00 00
+Unknown = 00 00
+RequiredClass = 00
+Amount = 01 00
+ReqLevel = 00 00
+Unknown = 00 00
+HealHP = 14 00
+HealMana = 00 00
+Unknown = 00
+Unknown = 20 4E // dunno why its twice there
+Unknown = 00 00 00 00
+
+
+--CURINGPOTION--
+
+[  DATA  ] (0x0000)  18 31 25 00 01 01 00 DA DA D8 00 64 4E 17 00 84   .1%........dN...
+[  DATA  ] (0x0010)  4E 58 02 00 00 00 00 00 01 00 00 00 00 00 2C 01   NX............,.
+[  DATA  ] (0x0020)  00 00 00 20 4E 00 00 00 00                        ... N....       
+
+
+PacketID = 18 31
+PacketSize = 25 00
+Bag = 01
+TotaItems = 01
+--loop--
+slot = 00
+ItemID = DA DA D8 00
+wRefID = 64 4E
+bType = 17
+bKind = 00
+VisualID = 84 4E
+Price = 02 00 00 00
+Unknown = 00 00
+ReqClass = 00
+Amount = 01 00
+ReqLevel = 00 00
+Unknown = 00 00
+HealHp = 2C 01
+HealMana = 00 00
+Unknown = 00
+Unknown = 20 4E
+Unknown 00 00 00 00
+
+--ManaPotion--
+
+[  DATA  ] (0x0000)  18 31 25 00 01 01 00 E0 DA D8 00 49 4E 17 00 08   .1%........IN...
+[  DATA  ] (0x0010)  52 1E 00 00 00 00 00 00 01 00 00 00 00 00 00 00   R...............
+[  DATA  ] (0x0020)  0A 00 00 20 4E 00 00 00 00                        ... N....       
+
+PacketID = 18 31
+PacketSize = 25 00
+Bag = 01
+TotaItems = 01
+--loop--
+slot = 00
+ItemID = E0 DA D8 00
+wRefID = 49 4E
+bType = 17
+bKind = 00
+VisualID = 08 52
+Price = 1E 00 00 00
+Unknown = 00 00
+ReqClass = 00
+Amount = 01 00
+ReqLevel = 00 00
+Unknown = 00 00
+HealHp = 00 00
+HealMana = 0A 00
+unknown = 00
+unknown = 20 4E 
+unknown = 00 00 00 00
+
+--Stone--
+
+[  DATA  ] (0x0000)  18 31 21 00 01 01 00 1F 4C 3D 00 29 4F 19 01 2B   .1!.....L=.)O..+
+[  DATA  ] (0x0010)  03 58 1B 00 00 00 00 00 01 00 00 01 00 01 00 00   .X..............
+[  DATA  ] (0x0020)  00 00 00 00 00                                    .....           
+
+
+PacketID = 18 31
+PacketSize = 21 00
+Bag = 01
+TotaItems = 01
+--Loop--
+Slot = 00
+ItemID = 1F 4C 3D 00
+wRefID = 29 4F
+bType = 19
+bKind = 01 
+VisualID = 2B 03
+Price = 58 1B 00 00
+Unknown = 00 00
+ReqClass = 00
+Amount = 01 00
+ReqLevel = 00
+ImbueChance = 01 00
+IncreaseValue = 01 00
+Unknown = 00 00 00 00 00 00
+
+--Mirror--
+[  DATA  ] (0x0000)  18 31 59 00 01 01 02 88 1F 2D 00 27 4F 09 05 FE   .1Y......-..O...
+[  DATA  ] (0x0010)  23 94 F2 00 00 00 00 00 01 00 00 00 00 00 00 00   #...............
+[  DATA  ] (0x0020)  00 00 00 00 64 DC 05 DC 05 00 00 00 00 00 00 00   ....d...........
+[  DATA  ] (0x0030)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0040)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0050)  00 00 00 00 00 0F 00 00 00 0F 00 00 00            .............   
+
+
+
+PacketID = 18 31
+PacketSize = 59 00
+Bag = 01
+TotaItems = 01
+--Loop-
+Slot = 02
+ItemID = 88 1F 2D 00
+wRefID = 27 4E
+bType = 09
+bKind = 05
+VisualID = FE 23
+Price = 94 F2 00 00
+Unknown = 00 00
+ReqClass = 00
+Amount = 01 00
+ReqLevel = 00
+Unknown = 00 00 00 00 00 00 00 00 00
+Something = 64
+CurDUra = DC 05
+MaxDura = DC 05
+Unknown = 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+DamageAbsorb = 0F 00 00 00
+AttackRatingAbsorb = 0F 00 00 00
+
+--PocketForceStuff---
+[  DATA  ] (0x0000)  18 31 1D 00 01 01 00 03 A4 CD 00 1F 52 14 00 10   .1......¤...R...
+[  DATA  ] (0x0010)  72 B8 0B 00 00 00 00 00 01 00 01 03 00 00 00 00   r...............
+[  DATA  ] (0x0020)  00                                                .               
+
+
+PacketID = 18 31
+PacketSize = 1D 00
+Bag = 01
+TotaItems = 01
+--Loop-
+Slot = 00
+ItemID = 03 A4 CD 00
+wRefID = 1F 52
+bType = 14
+bKind = 00
+VisualID = 10 72
+Price = B8 0B 00 00 
+Unknown = 00 00
+ReqClass = 00
+Amount = 01 00
+Stat = 01 // 1 = dmg, 4 = attackrating, 7 = manareg
+IncreaseStat = 03 00
+Unknown = 00 00 00 00
+
+--Pocket---
+
+[  DATA  ] (0x0000)  18 31 22 00 01 01 00 B4 E2 D8 00 E0 51 12 00 AC   .1".........Q...
+[  DATA  ] (0x0010)  71 C4 09 00 00 00 00 00 01 00 00 00 00 00 00 68   q..............h
+[  DATA  ] (0x0020)  01 68 01 03 00 00                                 .h....          
+
+PacketID = 18 31
+PacketSize = 22 00
+Bag = 01
+TotaItems = 01
+--Loop-
+Slot = 00
+ItemID = B4 E2 D8 00
+WrefID = E0 51
+bType = 12 
+bKind = 00
+Visual = AC 71
+Price = C4 09 00 00
+Unknown = 00 00
+ReqClass = 00
+Amount = 01 00
+Unknown = 00 00 00 00 00 
+CurDura = 68 01
+MaxDura = 68 01
+Slots = 03 00 00
+
+--DogBone--
+
+[  DATA  ] (0x0000)  18 31 20 00 01 01 00 AA E2 D8 00 8E 4E 10 00 28   .1 .........N..(
+[  DATA  ] (0x0010)  23 F4 01 00 00 00 00 00 01 00 03 00 00 00 00 00   #...............
+[  DATA  ] (0x0020)  00 00 00 00                                       ....            
+
+
+PacketID = 18 31
+PacketSize = 22 00
+Bag = 01
+TotaItems = 01
+--Loop-
+Slot = 00
+ItemID = AA E2 D8 00
+wRefID = 8E 4E 
+bType = 10
+bKind = 00
+Visual = 28 23
+Price =  F4 01 00 00
+Unknown = 00 00
+ReqClass = 00
+Amount = 01 00
+ChanceToTameMonster = 03 00
+Unknown = 00 00 00 00 00 00 00 00

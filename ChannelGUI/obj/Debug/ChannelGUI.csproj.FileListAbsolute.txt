@@ -1,0 +1,141 @@
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.csproj.GenerateResource.Cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Programming\C#\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ChannelGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\ServerEngine.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.ChannelServerMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\ChannelGUI.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\ChannelGUI\obj\Debug\GenerateResource-ResGen.write.1.tlog

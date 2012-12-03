@@ -1,0 +1,86 @@
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.WorldServerMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe.config
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe.config
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.exe
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.pdb
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.pdb
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.dll
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.dll
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.dll
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.dll
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.pdb
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.pdb
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.pdb
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.WorldServerMain.resources
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.Properties.Resources.resources
+C:\Programming\C#\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.WorldServerMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.WorldServerMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.csproj.GenerateResource.Cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\WorldServerGUI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\ServerEngine.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.WorldServerMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\WorldServerGUI.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\WorldServerGUI\obj\Debug\GenerateResource-ResGen.write.1.tlog

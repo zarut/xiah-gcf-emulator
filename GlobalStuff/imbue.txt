@@ -1,0 +1,71 @@
+[  DATA  ] (0x0000)  41 33 06 00 73 F5 3B 17 02 01                     A3..s.;...      
+
+PacketID = 41 33
+PacketLength = 06 00
+ItemID = 73 F5 3B 17
+Bag = 02
+Slot = 01
+
+[  DATA  ] (0x0000)  42 33 01 00 00                                    B3...           
+Recv somethig
+
+
+
+[  DATA  ] (0x0000)  43 33 1C 00 5E 00 00 00 73 F5 3B 17 02 01 BD 65   C3..^...s.;....e
+[  DATA  ] (0x0010)  39 17 02 00 00 00 00 00 00 FF 00 00 00 00 00 FF   9...............
+
+PacketID = 43 33 
+PacketLength = 1C 00
+NpcID = 5E 00 00 00
+ToImbueItemID = 73 F5 3B 17
+ToImbueBag = 02
+ToImbueSlot = 01
+--loop 3 times--
+ImbueItemID = BD 65 39 17
+ImbueItemBag = 02
+ImbueItemSlot = 00
+--endloop--
+
+
+
+[  DATA  ] (0x0000)  44 33 0B 00 27 04 00 00 00 00 00 00 00 00 00      D3............. 
+Recv Imbue Message
+
+PacketID = 44 33
+PacketLength = 0B 00
+Something = 27
+Something = 04
+Unknown = 00 00 00 00 00 00 00 00 00
+
+[  DATA  ] (0x0000)  08 33 03 00 02 00 00                              .3.....         
+Recv Remove Item
+
+PacketID = 08 33
+PacketLength = 03 00
+Bag = 02
+Slot = 00
+Unknown = 00
+
+
+[  DATA  ] (0x0000)  46 33 52 00 02 01 73 F5 3B 17 21 4E 01 00 E8 03   F3R...s.;.!N....
+[  DATA  ] (0x0010)  0F 00 00 00 00 00 01 01 00 01 00 00 00 00 00 00   ................
+[  DATA  ] (0x0020)  00 01 00 C8 C8 00 C8 00 03 00 00 00 00 00 02 00   ................
+[  DATA  ] (0x0030)  02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0040)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0050)  00 00 00 00 00 00                                 ......          
+Recv Updated Item
+
+PacketID = 46 33
+PacketLength = 52 00
+Bag = 02
+Slot = 01
+ItemID = 73 F5 3B 17
+wRefID = 21 4E
+bType = 01
+bKind = 00
+VisualID = E8 03
+Price = 0F 00 00 00
+Unknown = 00 00 
+ReqClass = 01
+Amount = 01 00
+-Stats = 01 00 00 00 00 00 00 00 01 00 C8 C8 00 C8 00 03 00 00 00 00 00 02 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 -

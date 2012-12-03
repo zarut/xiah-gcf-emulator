@@ -1,0 +1,30 @@
+SEND USE ITEM # 1
+
+[ DATA  ] (0x0000)  19 33 06 00 01 00 E8 E6 54 01                     .3......T.      
+
+PACKETID = 19 33
+PACKETLENGTH = 06 00
+AmountUsed? = 01 00
+ItemID = E8 E6 54 01
+
+RECV ITEMS LEFT # 1
+
+[  DATA  ] (0x0000)  16 33 08 00 01 00 E8 E6 54 01 08 00               .3......T...    
+
+PACKETID = 16 33
+PACKETLENGTH = 08 00
+AmountUsed? = 01 00
+ItemID = E8 E6 54 01
+AmountLeft = 08 00
+
+RECV HEALTH/MANA LEFT/MAX # 2
+
+[  DATA  ] (0x0000)  0D 3A 0D 00 8F 04 00 00 8F 04 00 00 84 00 66 00   .:..............
+[  DATA  ] (0x0010)  02                                                .               
+
+PACKETID = 0D 3A
+PACKETLENGTH = 0D 00
+MaxHealth = 8F 04 00 00
+CurHealth = 8F 04 00 00
+MaxMana = 84 00
+CurMana = 66 00

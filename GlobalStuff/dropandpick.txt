@@ -1,0 +1,76 @@
+[  DATA  ] (0x0000)  03 33 0F 00 01 01 19 06 41 00 9D 01 37 01 00 01   .3......A...7...
+[  DATA  ] (0x0010)  00 00 00                                          ...             
+
+
+PacketID = 03 33
+PacketLength = 0F 00
+FromBag = 01
+FromSlot = 01
+ItemID = 19 06 41 00
+ToX = 9D 01
+ToY = 37 01
+ToZ = 00
+Unknown = 01 00 00 00
+
+RecVRemoveItem
+[  DATA  ] (0x0000)  08 33 03 00 01 01 00                              .3.....        
+PacketId = 08 33
+PacketLength = 03 00
+DeleteFromBag = 01
+DeleteFromSlot = 01
+Unknown = 00 
+
+RecvItemOnFLoor 
+[  DATA  ] (0x0000)  0C 33 24 00 00 01 00 06 00 00 00 9E 01 37 01 00   .3$..........7..
+[  DATA  ] (0x0010)  66 B9 4C 00 02 98 08 C1 4E 19 06 41 00 01 00 00   f.L.....N..A....
+[  DATA  ] (0x0020)  00 00 00 00 00 01 00 00                           ........        
+
+PacketID = 0C 33
+PacketLength = 24 00
+Unknown = 00 01 00
+MapID = 06 00 00 00
+MapX = 9E 01
+MapY = 37 01
+MapZ = 00
+MapItemID = 66 B9 4C 00 // dropid
+bType = 02
+VisualID = 98 08
+wRefID = C1 4E
+ItemID = 19 06 41 00
+Amount = 01 00
+Unknown = 00 00 00 00 00 00 01 00 00
+
+
+SendPickItemFromFloor
+[  DATA  ] (0x0000)  01 33 15 00 06 00 00 00 19 06 41 00 31 01 AF 00   .3........A.1...
+[  DATA  ] (0x0010)  FF D1 BA 4C 00 01 00 00 00                        ...L.....       
+
+PacketID = 01 33
+PacketLenght = 15 00
+MapID = 06 00 00 00
+ItemID = 19 06 41 00 
+FromX = 31 01
+FromY = AF 00
+Unknown = FF
+DropID = D1 BA 4C 00
+Amount = 01 00
+Unknown = 00 00
+
+RecvAddItemToInventory
+[  DATA  ] (0x0000)  0A 33 52 00 01 01 19 06 41 00 C1 4E 02 02 98 08   .3R.....A..N....
+[  DATA  ] (0x0010)  00 00 00 00 00 00 03 01 00 01 00 00 00 00 00 01   ................
+[  DATA  ] (0x0020)  00 00 00 C8 64 00 64 00 00 00 03 00 00 00 00 00   ....d.d.........
+[  DATA  ] (0x0030)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0040)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0050)  00 00 00 00 00 00                                 ......          
+
+
+
+
+RecvItemPickUPText
+[  DATA  ] (0x0000)  3F 3A 08 00 01 00 C1 4E 01 00 00 00               ?:.....N....    
+
+
+
+RecvRemoveMapItem
+[  DATA  ] (0x0000)  06 33 04 00 D1 BA 4C 00                           .3....L.        

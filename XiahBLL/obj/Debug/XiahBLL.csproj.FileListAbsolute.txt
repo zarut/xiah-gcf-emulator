@@ -1,0 +1,100 @@
+C:\Programming\C#\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Programming\C#\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Programming\C#\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Programming\C#\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Programming\C#\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Programming\C#\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Programming\C#\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Programming\C#\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\XiahBLL\obj\Debug\XiahBLL.pdb

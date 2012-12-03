@@ -1,0 +1,50 @@
+C:\Programming\C#\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Programming\C#\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Programming\C#\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\DAL\obj\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\DAL\obj\Debug\DAL.pdb

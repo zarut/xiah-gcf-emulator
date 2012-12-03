@@ -1,0 +1,116 @@
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\LauncherService.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\DAL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\Entities.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\XiahBLL.dll
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\LauncherService.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\DAL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\Entities.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\XiahBLL.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.csproj.GenerateResource.Cache
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Documents and Settings\Omistaja\Työpöytä\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\bin\Debug\GCFLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLauncher\obj\Debug\GCFLauncher.pdb

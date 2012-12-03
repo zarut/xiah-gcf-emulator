@@ -1,0 +1,22 @@
+to load use this:
+
+private bool[,] LoadTiles()
+        {
+            FileStream stream = new FileStream(@"prairie_mask.xmm", FileMode.Open, FileAccess.Read);
+            BinaryReader reader = new BinaryReader(stream);
+
+            int width = reader.ReadInt32();
+            int heigh = reader.ReadInt32();
+            bool[,] tiles = new bool[width, heigh];
+
+            for (int x = 0; x < width; x++)
+            {
+                for (int y = 0; y < heigh; y++)
+                {
+                    tiles[x,y] = reader.ReadBoolean();
+                }
+            }
+
+            return tiles;
+        }
+

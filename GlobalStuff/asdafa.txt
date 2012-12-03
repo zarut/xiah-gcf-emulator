@@ -1,0 +1,302 @@
+        void c_ClientMoveItemInfo(object sender, ClientMoveItemEventArgs e)
+        {
+            Client c = (Client)sender;
+            MoveItemInfo m = e.Info;
+            Client[] nearbyClients = GetNearByClients(c);
+            BaseItem item = null;
+
+            if (m.FromBag > 0)
+            {
+                item = c.MyCharacter.Bags[m.FromBag - 1].Items.First(x => x.ItemID == m.ItemID);
+            }
+            else
+            {
+                switch (m.FromSlot)
+                {
+                    case (byte)Slot.Weapon: // Hand
+                        item = c.MyCharacter.Hand;
+                        break;
+
+                    case (byte)Slot.Hat: // Hat
+                        item = c.MyCharacter.Head;
+                        break;
+
+                    case (byte)Slot.Armor: // Armor
+                        item = c.MyCharacter.Body;
+                        break;
+
+                    case (byte)Slot.Shoes: // Shoes
+                        item = c.MyCharacter.Feet;
+                        break;
+
+                    case (byte)Slot.CrystalMirror: // crystalmirror
+                        item = c.MyCharacter.Charm;
+                        break;
+
+                    case (byte)Slot.Ring:
+                        item = c.MyCharacter.Ring;
+                        break;
+
+                    case (byte)Slot.Necklace:
+                        item = c.MyCharacter.Necklace;
+                        break;
+
+                    case (byte)Slot.Cape:
+                        item = c.MyCharacter.Cape;
+                        break;
+
+                    case (byte)Slot.Mirror:
+                        item = c.MyCharacter.Mirror;
+                        break;
+                    default:
+                        break;
+                }
+            }
+
+            byte error = 0;
+            // ADD MOVE ITEM FUNC TO THAT BAG CLASS BLABLA
+
+            try
+            {
+                switch (m.FromBag)
+                {
+                    case 0:
+                        if (m.ToBag != 0)
+                        {
+                            switch (m.FromSlot)
+                            {
+                                case (byte)Slot.Weapon:
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Hand, m.ToSlot)) 
+                                        c.MyCharacter.Hand = null;
+                                    break;
+
+                                case (byte)Slot.Hat: // Hat
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Head, m.ToSlot))
+                                        c.MyCharacter.Head = null;
+                                    break;
+
+                                case (byte)Slot.Armor: // Armor
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Body, m.ToSlot))
+                                        c.MyCharacter.Body = null;
+                                    break;
+
+                                case (byte)Slot.Shoes: // Shoes
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Feet, m.ToSlot))
+                                        c.MyCharacter.Feet = null;
+                                    break;
+
+                                case (byte)Slot.CrystalMirror: // crystalmirror
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Charm, m.ToSlot))
+                                        c.MyCharacter.Charm = null;
+                                    break;
+
+                                case (byte)Slot.Ring:
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Ring, m.ToSlot))
+                                        c.MyCharacter.Ring = null;
+                                    break;
+
+                                case (byte)Slot.Necklace:
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Necklace, m.ToSlot))
+                                        c.MyCharacter.Necklace = null;
+                                    break;
+
+                                case (byte)Slot.Cape:
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Cape, m.ToSlot))
+                                        c.MyCharacter.Cape = null;
+                                    break;
+
+                                case (byte)Slot.Mirror:
+                                    if (c.MyCharacter.Bags[m.ToBag - 1].CheckSlot(c.MyCharacter.Mirror, m.ToSlot))
+                                        c.MyCharacter.Mirror = null;
+                                    break;
+                            }
+
+
+                            c.Send(PacketManager.SendStats(c.MyCharacter));
+                            SendSpecific(nearbyClients, PacketManager.SendSpawnPlayers(c.MyCharacter));
+                        }
+                        break;
+                    case 1:
+
+                        break;
+
+                    case 2:
+
+                        break;
+                }
+
+                switch (m.ToBag)
+                {
+                    case 0: // equip, needs check for slot blabla
+                        switch (m.ToSlot)
+                        {
+                            case (byte)Slot.Weapon: // Hand
+                                if (item is Hand)
+                                {
+                                    if (c.MyCharacter.Hand == null)
+                                    {
+                                        item.Slot = (byte)Slot.Weapon;
+                                        item.Bag = 0;
+
+                                        c.MyCharacter.Hand = (Hand)item;
+                                    }
+                                }
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.Hat: // Hat
+                                if (item is Head)
+                                {
+                                    if (c.MyCharacter.Head == null)
+                                    {
+                                        item.Slot = (byte)Slot.Hat;
+                                        item.Bag = 0;
+
+                                        c.MyCharacter.Head = (Head)item;
+                                    }
+                                }
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.Armor: // Armor
+                                if (item is Body)
+                                {
+                                    if (c.MyCharacter.Body == null)
+                                    {
+                                        item.Slot = (byte)Slot.Armor;
+                                        item.Bag = 0;
+
+                                        c.MyCharacter.Body = (Body)item;
+                                    }
+                                }
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.Shoes: // Shoes
+                                if (item is Feet)
+                                {
+                                    if (c.MyCharacter.Feet == null)
+                                    {
+                                        item.Slot = (byte)Slot.Shoes;
+                                        item.Bag = 0;
+
+                                        c.MyCharacter.Feet = (Feet)item;
+                                    }
+                                }
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.CrystalMirror: // crystalmirror
+                                if (item is Equipment)
+                                    c.MyCharacter.Charm = (Equipment)item;
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.Ring:
+                                if (item is Ring)
+                                {
+                                    if (c.MyCharacter.Ring == null)
+                                    {
+                                        item.Slot = (byte)Slot.Ring;
+                                        item.Bag = 0;
+
+                                        c.MyCharacter.Ring = (Ring)item;
+                                    }
+                                }
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.Necklace:
+                                if (item is Necklace)
+                                {
+                                    if (c.MyCharacter.Necklace == null)
+                                    {
+                                        item.Slot = (byte)Slot.Necklace;
+                                        item.Bag = 0;
+
+                                        c.MyCharacter.Necklace = (Necklace)item;
+                                    }
+                                }
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.Cape:
+                                if (item is Cape)
+                                {
+                                    if (c.MyCharacter.Cape == null)
+                                    {
+                                        item.Slot = (byte)Slot.Cape;
+                                        item.Bag = 0;
+
+                                        c.MyCharacter.Cape = (Cape)item;
+                                    }
+                                }
+                                else
+                                    error = 3;
+                                break;
+
+                            case (byte)Slot.Mirror:
+                                if (item is Equipment)
+                                    c.MyCharacter.Mirror = (Equipment)item;
+                                else
+                                    error = 3;
+                                break;
+                        }
+                        c.Send(PacketManager.SendStats(c.MyCharacter));
+                        SendSpecific(nearbyClients, PacketManager.SendSpawnPlayers(c.MyCharacter));
+                        break;
+                    case 1:
+                        if (!HandleItemMove(c, m, item))
+                            error = 2;
+                        break;
+                    case 2:
+                        if (!HandleItemMove(c, m, item))
+                            error = 2;
+                        break;
+                }
+            }
+            catch (RequiredClassException)
+            {
+                error = 3;
+            }
+            catch (InvalidItemSlotException)
+            {
+                error = 2;
+            }
+
+            if (item.Slot != 255)
+            {
+                itemDataManager.UpdateItem(item);
+                byte[] SendMoveItem = PacketManager.SendMoveItem(m, error);
+                c.Send(SendMoveItem);
+            }
+            else
+            {
+                byte[] SendMoveItem = PacketManager.SendMoveItem(m);
+                c.Send(SendMoveItem);
+            }
+        }
+
+        private static bool HandleItemMove(Client c, MoveItemInfo m, BaseItem item)
+        {
+
+            if (c.MyCharacter.Bags[m.ToBag - 1].MoveItem(item, m.ToBag, m.ToSlot))
+            {
+                item.Bag = (byte)(m.ToBag);
+                if (m.FromBag != m.ToBag && m.FromBag > 0)
+                {
+                    c.MyCharacter.Bags[m.FromBag - 1].RemoveItemById(item.ItemID);
+                }
+
+                return true;
+            }
+
+            return false;
+        }

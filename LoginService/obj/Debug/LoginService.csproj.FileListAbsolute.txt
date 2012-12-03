@@ -1,0 +1,88 @@
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\bin\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\obj\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\LoginService\obj\Debug\LoginService.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\obj\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\obj\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\LoginService\obj\Debug\LoginService.pdb

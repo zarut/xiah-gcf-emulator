@@ -1,0 +1,9 @@
+[  DATA  ] (0x0000)  58 38 0A 00 27 00 00 00 6D 3C DE 00 01 0B         X8......m<....  
+
+PacketID = 58 38
+PacketLength = 0A 00
+NpcID = 27 00 00 00
+ItemID = 6D 3C DE 00
+ItemBag = 01
+ItemSlot = 0B
+

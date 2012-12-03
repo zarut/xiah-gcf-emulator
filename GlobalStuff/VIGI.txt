@@ -1,0 +1,85 @@
+Name		Level	Dura	Damage	Defence	PolishImbues	VisualID
+
+-Swordman-
+
+Alrium Shield	26	40	0	20	1		31345
+Lapez Shield	31	70	0	30	2		31346
+Aqunis Shield	38	110	0	40	2		31347
+Shuriq Shield	43	160	0	50	3		31348
+Aqupe Shield	47	220	0	60	3		31349	
+Emperor Shield	50	290	0	70	3		31350
+Pegonis Shield	54	370	0	80	4		31351
+Sildoro Shield	57	460	0	100	4		31352
+KariQul Shield	61	560	0	150	4		31353
+Imperial Shield	65	670	0	200	4		31354
+Bdragon Shield	65	900	300	300	6		31355
+PH Shield	71	1100	400	400	6		31356
+BD Shield	85	1300	550	550	7		31357
+Caeruleus Shiel	115	1600	700	700	8		31358
+Astri Shield	126	1750	800	800	9		31360
+Ganiture Shield	145	1900	950	950	10		31359
+Regno Shield	158	2000	1000	1000	11		31361
+Infinita Shield	170	2400	1400	1400	12		31362
+
+-Mage-
+
+Silinia Rea	26	40	0	20	1		31363
+Argnea Rea	31	70	0	30	2		31364
+Ferizon Rea	38	110	0	40	2		31365
+Delris Rea	43	160	0	50	3		31366
+Soul Rea	47	220	0	60	3		31367
+Dimona Rea	50	290	0	70	3		31368
+Elpid Rea	54	370	0	80	4		31369
+Karinas Rea	57	460	0	100	4		31370
+Lepiod Rea	61	560	0	150	4		31371
+Eghost Rea	65	670	0	200	4		31372
+Rebird Rea	65	900	300	300	6		31373
+PH Rea		71	1100	400	400	6		31374
+BD Rea		85	1300	550	550	7		31375
+Caeruleus Rea	115	1600	700	700	8		31376
+Astri Rea	126	1750	800	800	9		31378
+Geniture Rea	145	1900	950	950	10		31377
+Regno Rea	158	2000	1000	1000	11		31379
+Infinita Rea	170	2400	1400	1400	12		31380
+
+-Warrior-
+
+Titanew Balteum	26	40	0	20	1		31381
+Tuponis Balteum	31	70	0	30	2		31382
+Devius Balteum	38	110	0	40	2		31383
+Vendite Balteum	43	160	0	50	3		31384
+Zephurus Balteu	47	220	0	60	3		31385
+DS Balteum	50	290	0	70	3		31386
+Parxion Balteum	54	370	0	80	4		31387
+Exterion Balteu	57	460	0	100	4		31388
+Donatas Balteum	61	560	0	150	4		31389
+Wreed Balteum	65	670	0	200	4		31390
+Norstar Balteum	65	900	300	300	6		31391
+PH Balteum	71	1100	400	400	6		31392
+BD Balteum	85	1300	550	550	7		31393
+Caeruleus Balt	115	1600	700	700	8		31394
+Astri Balteum	126	1750	800	800	9		31396
+Geniture Balt	145	1900	950	950	10		31395
+Regno Balteum	158	2000	1000	1000	11		31397
+Infinita Balte	170	2400	1400	1400	12		31398
+
+-Ghost Fighter-
+
+Eldos Cape	26	40	0	20	1		31399
+Jepion Cape	31	70	0	30	2		31400
+Helcro Cape	38	110	0	40	2		31401
+Turus Cape	43	160	0	50	3		31402
+Caras Cape	47	220	0	60	3		31403
+Bellic Cape	50	290	0	70	3		31404
+Ovell Cape	54	370	0	80	4		31405
+Hycell Cape	57	460	0	100	4		31406
+Butiac Cape	61	560	0	150	4		31407
+Sousea Cape	65	670	0	200	4		31408
+Whtiger Cape	65	900	300	300	6		31409
+PH Cape		71	1100	400	400	6		31410
+BD Cape		85	1300	550	550	7		31411
+Caeruleus Cape	115	1600	700	700	8		31412
+Astri Cape	126	1750	800	800	9		31414
+Geniture Cape	145	1900	950	950	10		31413
+Regno Cape	158	2000	1000	1000	11		31415
+Infinita Cape	170	2400	1400	1400	12		31416

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="TryLogin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TryLoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="TryLoginResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="hashCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IsServerOn">
+        <s:complexType />
+      </s:element>
+      <s:element name="IsServerOnResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="IsServerOnResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TryLoginSoapIn">
+    <wsdl:part name="parameters" element="tns:TryLogin" />
+  </wsdl:message>
+  <wsdl:message name="TryLoginSoapOut">
+    <wsdl:part name="parameters" element="tns:TryLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IsServerOnSoapIn">
+    <wsdl:part name="parameters" element="tns:IsServerOn" />
+  </wsdl:message>
+  <wsdl:message name="IsServerOnSoapOut">
+    <wsdl:part name="parameters" element="tns:IsServerOnResponse" />
+  </wsdl:message>
+  <wsdl:portType name="LauncherServiceSoap">
+    <wsdl:operation name="TryLogin">
+      <wsdl:input message="tns:TryLoginSoapIn" />
+      <wsdl:output message="tns:TryLoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IsServerOn">
+      <wsdl:input message="tns:IsServerOnSoapIn" />
+      <wsdl:output message="tns:IsServerOnSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="LauncherServiceSoap" type="tns:LauncherServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TryLogin">
+      <soap:operation soapAction="http://tempuri.org/TryLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsServerOn">
+      <soap:operation soapAction="http://tempuri.org/IsServerOn" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="LauncherServiceSoap12" type="tns:LauncherServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TryLogin">
+      <soap12:operation soapAction="http://tempuri.org/TryLogin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsServerOn">
+      <soap12:operation soapAction="http://tempuri.org/IsServerOn" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="LauncherService">
+    <wsdl:port name="LauncherServiceSoap" binding="tns:LauncherServiceSoap">
+      <soap:address location="http://xiah.inbaru.com/LauncherService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="LauncherServiceSoap12" binding="tns:LauncherServiceSoap12">
+      <soap12:address location="http://xiah.inbaru.com/LauncherService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

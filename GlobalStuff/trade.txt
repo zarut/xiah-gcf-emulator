@@ -1,0 +1,59 @@
+#SEND ADD ITEM TO TRADEWINDOW
+[  DATA  ] (0x0000)  95 38 10 00 01 02 03 01 73 4B 5E 01 0A 00 00 00   .8......sK^.....
+[  DATA  ] (0x0010)  2F 8F F7 17                                       /...            
+   
+
+PacketID = 95 38
+PacketLength = 10 00
+FromBag = 01
+FromSlot = 02
+ToBag = 03
+ToSlot = 01
+ItemId = 73 4B 5E 01 
+Amount = 0A 00
+something = 00 00
+PlayerID = 2F 8F F7 17
+
+#RECV REMOVE ITEM FROM BAG
+[  DATA  ] (0x0000)  08 33 03 00 01 02 00                              .3.....         
+
+96 38 33 00 00 00 84 D7 17 01 1A 03 00 60 01 00 00 09 00 00 00 60 01 00 00 4E 4E 17 00 20 4E 06 00 00 00 00 00 00 09 00 00 00 00 00 82 00 00 00 00 20 4E 00 00 00 00 
+96 38 33 00 00 2E 8F F7 17 01 02 03 01 73 4B 5E 01 0A 00 00 00 73 4B 5E 01 4E 4E 17 00 20 4E 96 00 00 00 00 00 00 0A 00 00 00 00 00 82 00 00 00 00 20 4E 00 00 00 00
+
+#RECV ADD ITEM TO TRADE WINDOW
+[  DATA  ] (0x0000)  96 38 33 00 00 2E 8F F7 17 01 02 03 01 73 4B 5E   .83..........sK^
+[  DATA  ] (0x0010)  01 0A 00 00 00 73 4B 5E 01 4E 4E 17 00 20 4E 96   .....sK^.NN.. N.
+[  DATA  ] (0x0020)  00 00 00 00 00 00 0A 00 00 00 00 00 82 00 00 00   ................
+[  DATA  ] (0x0030)  00 20 4E 00 00 00 00                              . N....         
+
+PacketID = 96 38
+PacketLength = 33 00
+Something = 00 // slot maybe
+PlayerID1 = 2E 8F F7 17
+FromBag = 01
+FromSlot = 02
+ToBag = 03
+ToSlot = 01
+ItemID = 73 4B 5E 01 
+Amount = 0A 00
+Something = 00 00
+
+ItemIDAgain = 73 4B 5E 01
+ItemWRef = 4E 4E
+bType = 17
+bKind = 00
+VisualID = 20 4E
+Price = 96 00 00 00
+Something = 00 00 
+
+RequiredClass = 00
+Amount = 0A 00
+Something = 00 00 00 00
+HealHP = 82 00
+HealMana = 00 00
+Something = 00 20 4E 00 00 00 00
+
+#RECV ADD ITEM TO BAG
+[  DATA  ] (0x0000)  0A 33 24 00 01 02 73 4B 5E 01 4E 4E 17 00 20 4E   .3$...sK^.NN.. N
+[  DATA  ] (0x0010)  96 00 00 00 00 00 00 0A 00 00 00 00 00 82 00 00   ................
+[  DATA  ] (0x0020)  00 00 20 4E 00 00 00 00                           .. N....        

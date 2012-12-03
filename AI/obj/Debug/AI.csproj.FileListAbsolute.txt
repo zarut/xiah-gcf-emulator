@@ -1,0 +1,13 @@
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\AI.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\AI.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\ServerEngine.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\ServerEngine.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\obj\Debug\AI.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\AI\obj\Debug\AI.pdb

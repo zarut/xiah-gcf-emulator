@@ -1,0 +1,52 @@
+#SEND Insert Item To QuickSlot
+
+[  DATA  ] (0x0000)  31 31 06 00 50 4E 00 00 01 01                     11..PN....      
+
+PacketID = 31 31
+PacketLength = 06 00
+ItemWrefID = 50 4E
+Unknown = 00 00
+Slot = 1
+Page = 1
+
+#RECV Insert Item To Quick Slot
+		     32 31 06 00 00 01 67 4E 00 00 
+[  DATA  ] (0x0000)  32 31 06 00 00 01 08 52 00 00                     21.....R..    
+
+PacketID = 32 31
+PacketLength = 06 00
+Slot = 01
+Visual = 08 52
+Unknown = 00 00  
+
+
+#SeND Insert Skill to QuickSlot
+[  DATA  ] (0x0000)  31 31 06 00 5A 00 00 00 02 01                     11..Z.....      
+
+PacketID = 31 31
+PacketLength = 06 00
+SkillID = 5A 00
+Unknown = 00 00
+Slot = 02
+Page = 01
+
+#Recv Insert Skill To QuickSlot
+[  DATA  ] (0x0000)  32 31 06 00 00 02 5A 00 00 00                     21....Z...      
+
+PacketID = 32 31
+PacketLength = 06 00
+Slot = 02
+Visual = 5A 00 // skill ids probably same visual always etc
+Unknown = 00 00  
+
+
+#Recv QuickSlot Packet
+[  DATA  ] (0x0000)  2E 31 7B 00 01 20 00 00 00 28 00 00 00 00 00 00   .1{.. ...(......
+[  DATA  ] (0x0010)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0020)  00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00   ................
+[  DATA  ] (0x0030)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0040)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0050)  00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0060)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+[  DATA  ] (0x0070)  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00      ............... 
+

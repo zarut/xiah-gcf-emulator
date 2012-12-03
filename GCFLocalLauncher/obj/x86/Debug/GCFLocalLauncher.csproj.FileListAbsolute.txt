@@ -1,0 +1,108 @@
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.LauncherMain.resources
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.Properties.Resources.resources
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe.config
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.dll
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.dll
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.dll
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.dll
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.pdb
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.exe
+C:\Programming\C#\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe.config
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.dll
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.LauncherMain.resources
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Documents\My Received Files\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe.config
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\GCFLocalLauncher.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\LoginService.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\XiahBLL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\bin\Debug\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.LauncherMain.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.Properties.Resources.resources
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.exe
+C:\Users\Omistaja\Desktop\XiahGlobalServerEnis\XiahGlobalServer\XiahGlobalServer\GCFLocalLauncher\obj\x86\Debug\GCFLocalLauncher.pdb
