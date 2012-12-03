@@ -1,0 +1,7 @@
+C:\Programming\C#\XiahGlobalServer\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\BLL\bin\Debug\BLL.dll
+C:\Programming\C#\XiahGlobalServer\BLL\bin\Debug\BLL.pdb
+C:\Programming\C#\XiahGlobalServer\BLL\bin\Debug\DAL.dll
+C:\Programming\C#\XiahGlobalServer\BLL\bin\Debug\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\BLL\obj\Debug\BLL.dll
+C:\Programming\C#\XiahGlobalServer\BLL\obj\Debug\BLL.pdb

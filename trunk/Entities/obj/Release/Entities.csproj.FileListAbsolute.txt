@@ -1,0 +1,10 @@
+C:\Programming\C#\XiahGlobalServer\Entities\bin\Release\Entities.dll
+C:\Programming\C#\XiahGlobalServer\Entities\bin\Release\Entities.pdb
+C:\Programming\C#\XiahGlobalServer\Entities\obj\Release\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\Entities\obj\Release\Entities.dll
+C:\Programming\C#\XiahGlobalServer\Entities\obj\Release\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\Entities\bin\Release\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\Entities\bin\Release\Entities.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\Entities\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\Entities\obj\Release\Entities.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\Entities\obj\Release\Entities.pdb

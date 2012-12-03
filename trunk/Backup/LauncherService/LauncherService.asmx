@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="LauncherService.asmx.cs" Class="XiahServices.LauncherService" %>

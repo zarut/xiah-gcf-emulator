@@ -1,0 +1,20 @@
+REDS
+2 = level req
+3 = str req
+4 = sta req
+5 = dex req
+6 = energy req
+
+WHITES
+2 = damage
+3 = defense
+4 = ar
+5 = critical
+6 = max life
+7 = max mana
+8 = life reg
+9 = mana reg
+
+BLACKS
+2 = inc successrate
+3 = inc ability

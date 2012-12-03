@@ -1,0 +1,36 @@
+// Soft Force
+
+[  DATA  ] (0x0000)  1C 31 1D 00 04 01 00 00 00 00 03 00 02 00 00 00   .1..............
+[  DATA  ] (0x0010)  00 03 00 03 00 00 00 00 03 00 0C 00 00 00 30 01   ..............0.
+[  DATA  ] (0x0020)  00                                                .               
+
+
+[  DATA  ] (0x0000)  1C 31 16 00 03 01 00 00 00 00 03 00 02 00 00 00   .1..............
+[  DATA  ] (0x0010)  00 03 00 03 00 00 00 00 03 00                     ..........      
+
+PacketID: 1C 31
+PacketLength: 16 00
+TotalSkills?: 03
+--Loop--
+SkillID: 01 00 00 00
+SkillKind: 00
+SkillLevel: 03 00
+--EndLoop--
+
+
+// Hard Force
+
+[  DATA  ] (0x0000)  1D 31 08 00 01 5A 00 00 00 00 01 00               .1...Z......    
+
+[  DATA  ] (0x0000)  1D 31 0F 00 02 5A 00 00 00 00 01 00 5B 00 00 00   .1...Z......[...
+[  DATA  ] (0x0010)  16 02 00                                          ...             
+
+
+PacketID: 1D 31
+PacketLength: 0F 00
+TotalSkills: 2
+--loop--
+SkillID: 5B 00 00 00
+SkillKind: 16
+SkillLevel: 02 00
+--loop--

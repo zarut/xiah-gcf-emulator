@@ -1,0 +1,37 @@
+
+
+#RECV REQUEST MONSTER SPAWN
+[  DATA  ] (0x0000)  2B 40 08 00 DA 2F 98 03 02 00 00 00               +@.../......    
+
+
+#RECV SPAWN MONSTER
+[  DATA  ] (0x0000)  2C 40 28 00 00 C1 2F 8A 03 03 02 00 00 00 3E 03   ,@(.../.......>.
+[  DATA  ] (0x0010)  08 00 F0 03 00 25 01 C1 2F 00 00 14 3E 03 F0 03   .....%../...>...
+[  DATA  ] (0x0020)  00 96 00 00 00 96 00 00 00 07 80 FF               ............    
+
+PacketID = 2C 40
+PacketLength = 28 00
+Something = 00
+
+MonsterID = C1 2F 8A 03
+MonsterType = 03
+MapID = 02 00 00 00
+SpawnX = 3E 03
+Level = 08 00
+SpawnY = F0 03
+Unknown = 00 // maybe SpawnZ
+Direction = 25 01
+MonsterReferenceId = C1 2F 00 00 // this seems to be the dwid in npclist at chinese db, for some monsters half of them doesnt match
+Something = 14
+SpawnX2 = 3E 03
+SpawnY2 = F0 03
+Something = 00
+CurrentHealth = 96 00 00 00
+MaxHealth = 96 00 00 00
+WalkSpeed = 07
+GroupOrder = 80
+Something = FF
+
+[  DATA  ] (0x0000)  2C 40 28 00 00 2A 2E 9A 03 AE 02 00 00 00 A6 06   ,@(..*..........
+[  DATA  ] (0x0010)  1D 00 B8 04 00 F7 00 2A 2E 00 00 14 A1 06 AE 04   .......*........
+[  DATA  ] (0x0020)  00 87 02 00 00 87 02 00 00 0B 80 FF               ............    

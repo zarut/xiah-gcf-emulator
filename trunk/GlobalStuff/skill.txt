@@ -1,0 +1,89 @@
+#SEND SELECT SKILL
+[  DATA  ] (0x0000)  17 35 06 00 01 3C 00 00 00 03                     .5...<....      
+
+PacketID = 17 35
+PacketLength = 06 00
+Row = 01
+SkillID = 3C 00 00 00
+Slot = 03
+
+#RECV SELECT SKILL
+[  DATA  ] (0x0000)  18 35 07 00 00 01 3C 00 00 00 03                  .5....<....     
+
+PacketID = 18 35
+PacketLength = 07 00
+Something = 00 // maybe error
+Row = 01
+SkillID = 3C 00 00 00
+Slot = 03
+
+#SEND CAST SKILL1
+[  DATA  ] (0x0000)  13 35 18 00 3C 00 00 00 01 14 7B F7 17 3C 03 C0   .5..<.....{..<..
+[  DATA  ] (0x0010)  04 6D 01 14 7B F7 17 00 00 00 00 00               .m..{.......    
+
+PacketID = 13 35
+PacketLength = 18 00
+SkillID = 3C 00 00 00
+SkillLevel? = 01 
+CharacterID = 14 7B F7 17
+X = 3C 03
+Y = C0 04
+Z = 6D
+Something = 01 // chartype maybe
+CharID = 14 7B F7 17
+TargetID? = 00 00 00 00
+Something = 00
+
+#RECV CAST SKILL1
+[  DATA  ] (0x0000)  14 35 1D 00 00 3C 00 00 00 01 01 14 7B F7 17 3C   .5...<......{..<
+[  DATA  ] (0x0010)  03 C0 04 6D 01 14 7B F7 17 00 00 00 00 00 00 00   ...m..{.........
+[  DATA  ] (0x0020)  00                                                .               
+
+PacketID = 14 35
+PacketLength = 1D 00
+Something = 00
+SkillID = 3C 00 00 00
+SkillLevel = 01
+CasterType = 01
+CasterID = 14 7B F7 17
+CasterX = 3C 03
+CasterY = C0 04
+CasterZ = 6D
+TargetType = 01
+TargetID = 14 7B F7 17
+Something = 00 00 00 00 00 00 00 00
+
+#SEND CAST SKILL2
+[  DATA  ] (0x0000)  15 35 18 00 3C 00 00 00 01 14 7B F7 17 3C 03 C0   .5..<.....{..<..
+[  DATA  ] (0x0010)  04 6D 01 14 7B F7 17 00 00 00 00 00               .m..{.......    
+
+PacketID = 15 35
+PacketLength = 18 00
+SkillID = 3C 00 00 00
+SkillLevel = 01
+CharacterID = 14 7B F7 17
+X = 3C 03
+Y = C0 04
+Z = 6D
+Someting = 01
+CharacterID = 14 7B F7 17
+Something = 00 00 00 00 00
+
+#RECV CAST SKILL2
+[  DATA  ] (0x0000)  16 35 26 00 00 3C 00 00 00 01 01 14 7B F7 17 00   .5&..<......{...
+[  DATA  ] (0x0010)  00 00 00 00 01 14 7B F7 17 00 00 00 00 00 00 00   ......{.........
+[  DATA  ] (0x0020)  00 00 00 00 00 00 00 00 00 00                     ..........      
+
+PacketID = 16 35
+PacketLength = 26 00
+Something = 00
+SkillID = 3C 00 00 00
+SkillLevel = 01
+CasterType = 01
+CasterID = 14 7B F7 17
+CasterX = 00 00
+CasterY = 00 00
+CasterZ = 00
+TargetType = 01
+TargetID = 14 7B F7 17
+Something = 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00

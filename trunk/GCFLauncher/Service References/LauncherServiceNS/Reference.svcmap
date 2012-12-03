@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="feaf78e9-c8aa-4b40-97e8-c131f49b3325" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://xiah.inbaru.com:8080/LauncherService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LauncherService.xsd" MetadataType="Schema" ID="56f1cc44-0aa5-4f79-a476-e81309a2049d" SourceId="1" SourceUrl="http://xiah.inbaru.com:8080/LauncherService.svc?xsd=xsd2" />
+    <MetadataFile FileName="LauncherService.wsdl" MetadataType="Wsdl" ID="3722295e-5e87-46cf-9ec0-db45c3f04a77" SourceId="1" SourceUrl="http://xiah.inbaru.com:8080/LauncherService.svc?wsdl" />
+    <MetadataFile FileName="LauncherService1.xsd" MetadataType="Schema" ID="1af0901e-763a-4762-a9af-fb420eccb80c" SourceId="1" SourceUrl="http://xiah.inbaru.com:8080/LauncherService.svc?xsd=xsd0" />
+    <MetadataFile FileName="LauncherService2.xsd" MetadataType="Schema" ID="6d7cd74e-b4de-422f-99a6-7208b786f90b" SourceId="1" SourceUrl="http://xiah.inbaru.com:8080/LauncherService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

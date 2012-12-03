@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Web.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    Mai xiah web
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="LoginView" runat="server">
+                    <AnonymousTemplate>
+                        Login
+                        <br />
+                        Username:
+                        <asp:TextBox ID="UsernameTextBox" runat="server"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidatorUsernameLogin" runat="server"
+                            ErrorMessage="RequiredFieldValidator" Text="*" ControlToValidate="UsernameTextBox"
+                            ValidationGroup="LoginGroup"></asp:RequiredFieldValidator>
+                        <br />
+                        Password:
+                        <asp:TextBox ID="PasswordTextBox" runat="server" TextMode="Password"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidatorPasswordLogin" runat="server"
+                            ErrorMessage="RequiredFieldValidator" Text="*" ControlToValidate="PasswordTextBox"
+                            ValidationGroup="LoginGroup"></asp:RequiredFieldValidator>
+                        <br />
+                        <asp:Button ID="ButtonLoginOk" runat="server" Text="OK" OnClick="ButtonLoginOk_Click"
+                            ValidationGroup="LoginGroup" />
+                        <br />
+                        <asp:Label ID="WrongUsernamePasswordLabel" runat="server" ForeColor="Red"></asp:Label>
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Hello
+                        <asp:LoginName ID="LoginName" runat="server" />
+                        my frend.
+                        <br />
+                        <asp:Button ID="Button1" runat="server" Height="21px" onclick="Button1_Click" 
+                            Text="Log out" Width="55px" />
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
+                    IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home" />
+                        <asp:MenuItem NavigateUrl="~/TopPlayers.aspx" Text="Top 10 Players" />
+                        <asp:MenuItem NavigateUrl="~/TopPets.aspx" Text="Top 10 Pets" 
+                            Value="Top 10 Pets"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+    </div>
+    </form>
+</body>
+</html>

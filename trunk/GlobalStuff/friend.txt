@@ -1,0 +1,82 @@
+SEND FRIEND REQUEST
+[  DATA  ] (0x0000)  40 3B 0A 00 28 0B 26 2D E5 17 34 30 E7 17         @;..(.&-..40..  
+
+PacketID = 40 3B
+PacketLength = 0A 00
+Type = 28
+Answer = 0B
+AskerID = 26 2D E5 17
+TargetID = 34 30 E7 17
+
+
+RECV FRIEND REQUEST
+[  DATA  ] (0x0000)  41 3B 0A 00 28 0B 2F 8F F7 17 2E 8F F7 17         A;..(./.......  
+
+PacketID = 41 3B
+PacketLength = 0A 00
+Type = 28
+Answer = 0B
+AskerID = 2F 8F F7 17
+TargetID = 2E 8F F7 17
+
+
+RECV ACCEPT (also the one you send request receives this)
+[  DATA  ] (0x0000)  41 3B 0A 00 28 0A 26 2D E5 17 34 30 E7 17         A;..(.&-..40..  
+
+PacketID = 41 3B
+PacketLength = 0A 00
+Type = 28
+Answer = 0A
+AskerID = 26 2D E5 17
+TargetID = 34 30 E7 17
+
+RECV CANCEL
+[  DATA  ] (0x0000)  41 3B 0A 00 28 0D 2E 8F F7 17 2F 8F F7 17         A;..(...../...  
+
+PacketID = 41 3B
+PacketLEngth = 0A 00
+Type = 28
+Answer = 0D
+AskerID = 2E 8F F7 17
+TargetID = 2F 8F F7 17
+
+RECV2
+[  DATA  ] (0x0000)  58 3B 1C 00 28 34 30 E7 17 14 00 4E 00 61 00 72   X;..(40....N.a.r
+[  DATA  ] (0x0010)  00 74 00 69 00 71 00 75 00 65 00 D1 9E 00 00 01   .t.i.q.u.e......
+
+PacketID = 58 3B
+PacketLength = 1C 00
+Type = 28 // probably relation type or so
+FriendID = 34 30 E7 17
+FriendName = 14 00 4E 00 61 00 72 00 74 00 69 00 71 00 75 00 65 00 D1 9E 00 00
+Something = 01 // maybe online & offline
+
+#RECV FRIEND LIST
+[  DATA  ] (0x0000)  56 3B 31 00 02 28 14 7B F7 17 0A 00 71 00 71 00   V;1..(.{....q.q.
+[  DATA  ] (0x0010)  71 00 33 00 00 00 02 04 00 00 00 01 28 2F 8F F7   q.3.........(/..
+[  DATA  ] (0x0020)  17 0C 00 53 00 69 00 69 00 6B 00 61 00 00 00 02   ...S.i.i.k.a....
+[  DATA  ] (0x0030)  04 00 00 00 01                                    .....           
+  
+
+PacketID = 56 3B
+PacketLength = 18 00
+TotalFriends = 02
+-loop-
+FriendType = 28
+FriendID = 14 7B F7 17
+Name = 0A 00 71 00 71 00 71 00 33 00 00 00
+something = 02 04 00 00 00 
+Online = 01
+-endloop-
+
+#RECV FRIEND CONNECTED
+[  DATA  ] (0x0000)  5C 3B 0A 00 37 7B F7 17 02 04 00 00 00 01         \;..7{........  
+
+PacketID = 5C 3B
+PacketLength = 0A 00
+FriendID = 37 7B F7 17
+Something = 02 04 00 00 00
+Online = 01
+
+#RECV FRIEND DISCONNECTEd
+[  DATA  ] (0x0000)  5C 3B 0A 00 37 7B F7 17 02 04 00 00 00 00         \;..7{........  

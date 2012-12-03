@@ -1,0 +1,10 @@
+C:\Programming\C#\XiahGlobalServer\DAL\bin\Release\DAL.dll
+C:\Programming\C#\XiahGlobalServer\DAL\bin\Release\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\DAL\obj\Release\DAL.dll
+C:\Programming\C#\XiahGlobalServer\DAL\obj\Release\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Release\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\bin\Release\DAL.pdb
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Release\DAL.dll
+C:\Users\Omistaja\Desktop\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\XiahGlobalServer\DAL\obj\Release\DAL.pdb

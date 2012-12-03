@@ -1,0 +1,41 @@
+Load Packet (Client to Server)
+01 31 - [Header]
+34 00 - [Length]
+0A 00 - [Name Length]
+[Name - Unicode]
+1E 00 - [Datetime length]
+32 00 30 00 31 00 30 00 30 00 36 00 30 00 31 00 31 00 39 00 34 00 30 00 33 00 31 00 00 00 [Datetime - Unicode]
+17 02 00 00 - [Version]
+
+Send Server List (Server to Client)
+04 31 - [Header]
+1C 00 - [Length]
+01 - [Server Amount]
+01 - [Server ID?]
+0C 00 - [Server Name Length]
+55 00 6E 00 69 00 6F 00 6E 00 00 00 - [Server Name]
+0A 00 - [1svr Length]
+31 00 73 00 76 00 72 00 00 00 - [1svr(no idea)]
+ 
+Correct Version (Server to Client)
+02 31 - [Header]
+06 00 - [Length]
+00 66 BD 01 00 14 - [No Idea]
+
+Wrong Version (Server to Client)
+02 31 - [Header]
+06 00 - [Length]
+0C 00 00 00 00 00 - [Error type]
+
+Select Server (Client to Server)
+47 31 - [Header]
+01 00 - [Length]
+01 - [World ID?]
+
+Move to World Server (Server to Client)
+48 31 - [Header]
+1E 00 - [Length]
+18 00 - [World Server IP Length]
+36 00 31 00 2E 00 37 00 34 00 2E 00 36 00 30 00 2E 00 37 00 34 00 00 - [World Server IP]
+00 - [Seperator? D:]
+28 23 00 00 - [Port(9000)]

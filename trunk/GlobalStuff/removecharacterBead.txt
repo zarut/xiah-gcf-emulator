@@ -1,0 +1,21 @@
+
+#RECV SendRemoveCharacter
+[  DATA  ] (0x0000)  0A 32 0B 00 00 14 7B F7 17 01 02 00 00 00 01      .2....{........ 
+
+#RECV MaybeEffect
+[  DATA  ] (0x0000)  06 40 0A 00 00 5D 0A 00 00 04 07 00 00 00         .@...]........  
+
+PacketID = 06 40
+PacketLength = 0A 00
+Unknown = 00
+MaybeX = 5D 0A
+Something = 00 00
+MaybeY = 04 07
+Something = 00 00 00
+
+
+#RECV Something
+[  DATA  ] (0x0000)  27 3E 01 00 0A                                    .>...           
+
+#RECV Something2
+[  DATA  ] (0x0000)  2D 3E 01 00 0A                                    ->...           

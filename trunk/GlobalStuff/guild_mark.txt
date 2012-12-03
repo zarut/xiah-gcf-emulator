@@ -1,0 +1,114 @@
+#SEND REGISTER GUILDMARK
+[  DATA  ] (0x0000)  5F 3B 0D 03 00 99 00 00 00 02 03 85 2C 2E 85 2C   .;..........,..,
+[  DATA  ] (0x0010)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x0020)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0030)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x0040)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x0050)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0060)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x0070)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x0080)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0090)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x00A0)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x00B0)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x00C0)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 63 4C   ,..,..,..,..,.cL
+[  DATA  ] (0x00D0)  41 4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41   ALcOcLA.,..,.cLA
+[  DATA  ] (0x00E0)  4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41 4C   LcOcLA.,..,.cLAL
+[  DATA  ] (0x00F0)  63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41 4C 63   cOcLA.,..,.cLALc
+[  DATA  ] (0x0100)  4F 02 92 FF 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F   O...LcOcLA.,.LcO
+[  DATA  ] (0x0110)  01 D3 FF 4C 63 4F 85 2C 2E 63 4C 41 4C 63 4F 01   ...LcO.,.cLALcO.
+[  DATA  ] (0x0120)  FD FF 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F 01 9E   ..LcOcLA.,.LcO..
+[  DATA  ] (0x0130)  FF 4C 63 4F 01 B9 FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0140)  01 E9 FF 4C 63 4F 85 2C 2E 4C 63 4F 01 FF FF 4C   ...LcO.,.LcO...L
+[  DATA  ] (0x0150)  63 4F 01 F8 FF 4C 63 4F 85 2C 2E 4C 63 4F 01 B9   cO...LcO.,.LcO..
+[  DATA  ] (0x0160)  FF 4C 63 4F 01 D3 FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0170)  01 F9 FF 4C 63 4F 85 2C 2E 4C 63 4F 01 F8 FF 4C   ...LcO.,.LcO...L
+[  DATA  ] (0x0180)  63 4F 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F 01 D3   cOLcOcLA.,.LcO..
+[  DATA  ] (0x0190)  FF 01 DF FF 01 E9 FF 4C 63 4F 85 2C 2E 4C 63 4F   .......LcO.,.LcO
+[  DATA  ] (0x01A0)  01 FF FF 4C 63 4F 63 4C 41 4C 63 4F 01 E7 FF 4C   ...LcOcLALcO...L
+[  DATA  ] (0x01B0)  63 4F 85 2C 2E 85 2C 2E 85 2C 2E 4C 63 4F 01 E9   cO.,..,..,.LcO..
+[  DATA  ] (0x01C0)  FF 4C 63 4F 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F   .LcOLcOcLA.,.LcO
+[  DATA  ] (0x01D0)  01 F8 FF 01 F1 FF 4C 63 4F 4C 63 4F 01 CE FF 4C   ......LcOLcO...L
+[  DATA  ] (0x01E0)  63 4F 85 2C 2E 85 2C 2E 85 2C 2E 4C 63 4F 01 F9   cO.,..,..,.LcO..
+[  DATA  ] (0x01F0)  FF 4C 63 4F 01 FF FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0200)  01 E7 FF 4C 63 4F 63 4C 41 4C 63 4F 01 B3 FF 4C   ...LcOcLALcO...L
+[  DATA  ] (0x0210)  63 4F 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F 01 FF   cOLcOcLA.,.LcO..
+[  DATA  ] (0x0220)  FF 4C 63 4F 01 F8 FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0230)  01 CE FF 4C 63 4F 63 4C 41 4C 63 4F 01 9A FF 4C   ...LcOcLALcO...L
+[  DATA  ] (0x0240)  63 4F 01 84 FF 4C 63 4F 85 2C 2E 63 4C 41 4C 63   cO...LcO.,.cLALc
+[  DATA  ] (0x0250)  4F 01 F1 FF 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F   O...LcOcLA.,.LcO
+[  DATA  ] (0x0260)  01 B3 FF 01 A6 FF 4C 63 4F 63 4C 41 4C 63 4F 01   ......LcOcLALcO.
+[  DATA  ] (0x0270)  7A FF 4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C   z.LcOcLA.,..,.cL
+[  DATA  ] (0x0280)  41 4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41   ALcOcLA.,..,.cLA
+[  DATA  ] (0x0290)  4C 63 4F 4C 63 4F 63 4C 41 85 2C 2E 63 4C 41 4C   LcOLcOcLA.,.cLAL
+[  DATA  ] (0x02A0)  63 4F 63 4C 41 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   cOcLA.,..,..,..,
+[  DATA  ] (0x02B0)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x02C0)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x02D0)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x02E0)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x02F0)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0300)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 00 00 80 00 00   ,..,..,..,......
+[  DATA  ] (0x0310)  00                                                .               
+
+
+#RECV GUILD MARK REGISTERED
+[  DATA  ] (0x0000)  60 3B 02 00 00 00                                 .;....          
+
+#RECV GUILD MARK
+[  DATA  ] (0x0000)  61 3B 09 03 00 14 00 00 00 02 03 85 2C 2E 85 2C   a;..........,..,
+[  DATA  ] (0x0010)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x0020)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0030)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x0040)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x0050)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0060)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x0070)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x0080)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0090)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x00A0)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x00B0)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x00C0)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 63 4C   ,..,..,..,..,.cL
+[  DATA  ] (0x00D0)  41 4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41   ALcOcLA.,..,.cLA
+[  DATA  ] (0x00E0)  4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41 4C   LcOcLA.,..,.cLAL
+[  DATA  ] (0x00F0)  63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41 4C 63   cOcLA.,..,.cLALc
+[  DATA  ] (0x0100)  4F 02 92 FF 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F   O...LcOcLA.,.LcO
+[  DATA  ] (0x0110)  01 D3 FF 4C 63 4F 85 2C 2E 63 4C 41 4C 63 4F 01   ...LcO.,.cLALcO.
+[  DATA  ] (0x0120)  FD FF 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F 01 9E   ..LcOcLA.,.LcO..
+[  DATA  ] (0x0130)  FF 4C 63 4F 01 B9 FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0140)  01 E9 FF 4C 63 4F 85 2C 2E 4C 63 4F 01 FF FF 4C   ...LcO.,.LcO...L
+[  DATA  ] (0x0150)  63 4F 01 F8 FF 4C 63 4F 85 2C 2E 4C 63 4F 01 B9   cO...LcO.,.LcO..
+[  DATA  ] (0x0160)  FF 4C 63 4F 01 D3 FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0170)  01 F9 FF 4C 63 4F 85 2C 2E 4C 63 4F 01 F8 FF 4C   ...LcO.,.LcO...L
+[  DATA  ] (0x0180)  63 4F 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F 01 D3   cOLcOcLA.,.LcO..
+[  DATA  ] (0x0190)  FF 01 DF FF 01 E9 FF 4C 63 4F 85 2C 2E 4C 63 4F   .......LcO.,.LcO
+[  DATA  ] (0x01A0)  01 FF FF 4C 63 4F 63 4C 41 4C 63 4F 01 E7 FF 4C   ...LcOcLALcO...L
+[  DATA  ] (0x01B0)  63 4F 85 2C 2E 85 2C 2E 85 2C 2E 4C 63 4F 01 E9   cO.,..,..,.LcO..
+[  DATA  ] (0x01C0)  FF 4C 63 4F 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F   .LcOLcOcLA.,.LcO
+[  DATA  ] (0x01D0)  01 F8 FF 01 F1 FF 4C 63 4F 4C 63 4F 01 CE FF 4C   ......LcOLcO...L
+[  DATA  ] (0x01E0)  63 4F 85 2C 2E 85 2C 2E 85 2C 2E 4C 63 4F 01 F9   cO.,..,..,.LcO..
+[  DATA  ] (0x01F0)  FF 4C 63 4F 01 FF FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0200)  01 E7 FF 4C 63 4F 63 4C 41 4C 63 4F 01 B3 FF 4C   ...LcOcLALcO...L
+[  DATA  ] (0x0210)  63 4F 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F 01 FF   cOLcOcLA.,.LcO..
+[  DATA  ] (0x0220)  FF 4C 63 4F 01 F8 FF 4C 63 4F 85 2C 2E 4C 63 4F   .LcO...LcO.,.LcO
+[  DATA  ] (0x0230)  01 CE FF 4C 63 4F 63 4C 41 4C 63 4F 01 9A FF 4C   ...LcOcLALcO...L
+[  DATA  ] (0x0240)  63 4F 01 84 FF 4C 63 4F 85 2C 2E 63 4C 41 4C 63   cO...LcO.,.cLALc
+[  DATA  ] (0x0250)  4F 01 F1 FF 4C 63 4F 63 4C 41 85 2C 2E 4C 63 4F   O...LcOcLA.,.LcO
+[  DATA  ] (0x0260)  01 B3 FF 01 A6 FF 4C 63 4F 63 4C 41 4C 63 4F 01   ......LcOcLALcO.
+[  DATA  ] (0x0270)  7A FF 4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C   z.LcOcLA.,..,.cL
+[  DATA  ] (0x0280)  41 4C 63 4F 63 4C 41 85 2C 2E 85 2C 2E 63 4C 41   ALcOcLA.,..,.cLA
+[  DATA  ] (0x0290)  4C 63 4F 4C 63 4F 63 4C 41 85 2C 2E 63 4C 41 4C   LcOLcOcLA.,.cLAL
+[  DATA  ] (0x02A0)  63 4F 63 4C 41 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   cOcLA.,..,..,..,
+[  DATA  ] (0x02B0)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x02C0)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x02D0)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C   ,..,..,..,..,..,
+[  DATA  ] (0x02E0)  2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E   ..,..,..,..,..,.
+[  DATA  ] (0x02F0)  85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 85   .,..,..,..,..,..
+[  DATA  ] (0x0300)  2C 2E 85 2C 2E 85 2C 2E 85 2C 2E 00 00            ,..,..,..,...   
+
+
+#RECV GUILD PLAYER 
+[  DATA  ] (0x0000)  3F 3B 41 00 44 7D F7 17 99 00 00 00 08 00 47 00   ?;A.D}........G.
+[  DATA  ] (0x0010)  46 00 43 00 00 00 01 00 00 00 02 00 00 00 14 00   F.C.............
+[  DATA  ] (0x0020)  4E 00 65 00 70 00 69 00 6C 00 61 00 78 00 30 00   N.e.p.i.l.a.x.0.
+[  DATA  ] (0x0030)  72 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00   r...............
+[  DATA  ] (0x0040)  00 14 00 00 00                                    .....           

@@ -1,0 +1,11 @@
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\LoginService.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\LoginService.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\Entities.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\XiahBLL.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\DAL.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\Entities.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\XiahBLL.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\bin\DAL.pdb
+C:\Programming\C#\XiahGlobalServer\LoginService\obj\Release\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\LoginService\obj\Release\LoginService.dll
+C:\Programming\C#\XiahGlobalServer\LoginService\obj\Release\LoginService.pdb

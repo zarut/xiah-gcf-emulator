@@ -1,0 +1,11 @@
+C:\Programming\C#\XiahGlobalServer\ServerGUI\bin\Debug\ServerGUI.exe
+C:\Programming\C#\XiahGlobalServer\ServerGUI\bin\Debug\ServerGUI.pdb
+C:\Programming\C#\XiahGlobalServer\ServerGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\C#\XiahGlobalServer\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+C:\Programming\C#\XiahGlobalServer\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+C:\Programming\C#\XiahGlobalServer\ServerGUI\obj\Debug\ServerGUI.exe
+C:\Programming\C#\XiahGlobalServer\ServerGUI\obj\Debug\ServerGUI.pdb
+C:\Programming\C#\XiahGlobalServer\ServerGUI\bin\Debug\ServerGUI.exe.config
+C:\Programming\C#\XiahGlobalServer\ServerGUI\bin\Debug\ServerEngine.dll
+C:\Programming\C#\XiahGlobalServer\ServerGUI\bin\Debug\ServerEngine.pdb
+C:\Programming\C#\XiahGlobalServer\ServerGUI\obj\Debug\ServerGUI.MainWindow.resources
